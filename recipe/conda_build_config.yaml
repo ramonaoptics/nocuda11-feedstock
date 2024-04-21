@@ -1,0 +1,5 @@
+channel_sources:
+  - ramonaoptics,conda-forge
+channel_targets:
+  - ramonaoptics main
+
